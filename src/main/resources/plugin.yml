@@ -1,0 +1,7 @@
+name: ScalaPlugin
+main: com.github.ms5984.scala.maven_test.testing
+version: 0.1
+api-version: 1.16
+commands:
+  scala-test:
+    aliases: scala
